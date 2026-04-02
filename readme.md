@@ -229,7 +229,7 @@
 - [Erlang](https://github.com/drobakowski/awesome-erlang#readme)
 - [Julia](https://github.com/svaksha/Julia.jl#readme) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
 - [Lua](https://github.com/LewisJEllis/awesome-lua#readme)
-- [Mesa-LP](https://github.com/crackanimad0r/Mesa-LP) - High-performance bilingual (English/Spanish) programming language with native Microkernel integration.
+- [Mesa-LP](https://github.com/crackanimad0r/Mesa-LP/#readme) - High-performance bilingual (English/Spanish) programming language with native Microkernel integration.
 - [C](https://github.com/inputsh/awesome-c#readme)
 - [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
 - [R](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
